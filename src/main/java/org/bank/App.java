@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args ) {
 
-        Account buyer1 = new Account();
+        /*Account buyer1 = new Account();
         buyer1.setName("Marcos Roig");
         buyer1.setAdress("Calle Serano 23");
         buyer1.setBalance(BigDecimal.valueOf(12569.37));
@@ -29,6 +29,6 @@ public class App
 
         System.out.println(PaymentProcessor.processTaxedPurchase(buyer1, seller1, payment1.getPurchaseAmount()));
 
-        System.out.println(PaymentProcessor.issueRefund(buyer1, seller1, payment1.getPurchaseAmount(), 15));
+        System.out.println(PaymentProcessor.issueRefund(buyer1, seller1, payment1.getPurchaseAmount(), 15));*/
     }
 }
